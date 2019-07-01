@@ -1,8 +1,0 @@
-language: python
-sudo: true
-
-os:
-  - linux
-  
-  script:
-  - chmod +x gradlew
