@@ -21,3 +21,15 @@
     />
   </a>
 </p>
+
+![1](https://user-images.githubusercontent.com/36175538/60447538-3c212080-9be9-11e9-9be2-ab9e953fb9af.PNG)
+
+## Author
+
+* **Marcus Stewart** - [MMStewart](https://github.com/mmstewart)
+
+## License
+
+Copyright (c) 2019<!--- -(Future Years) --> Marcus Stewart, see Git history
+
+MIT licensed, see [LICENSE](LICENSE) file.
