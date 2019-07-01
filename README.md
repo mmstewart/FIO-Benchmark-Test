@@ -2,12 +2,6 @@
 <p align=center> Flexible I/O (FIO) script to perform IO performance tests on storage devices. Made with Python. :heart: </p>
 
 <p align=center>
-      <a href="https://travis-ci.org/mmstewart/FIO-Benchmark-Test">
-    <img
-      alt="build_status:?"
-      src="https://img.shields.io/travis/mmstewart/FIO-Benchmark-Test/master.svg"
-    />
-  </a>
     <a href="./LICENSE">
     <img
       alt="license:mit"
