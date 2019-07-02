@@ -3,28 +3,12 @@
 
 <p align=center>
     
-    <a href="https://pypi.org/project/pip/">
-    <img
-      alt="pypi:?"
-      src="https://img.shields.io/pypi/pyversions/pip.svg"
-    />
-  </a>
+  [![Pypi](https://img.shields.io/pypi/pyversions/pip.svg)](https://pypi.org/project/pip/)
+    
   [![Contributors](https://img.shields.io/github/contributors/mmstewart/FIO-Benchmark-Test.svg)](https://github.com/mmstewart/FIO-Benchmark-Test/graphs/contributors)
-  
-  [![Travis CI](https://travis-ci.org/hvac/hvac.svg?branch=master)](https://travis-ci.org/hvac/hvac)
-  
-    <a href="./LICENSE">
-    <img
-      alt="license:mit"
-      src="https://img.shields.io/github/license/mmstewart/FIO-Benchmark-Test.svg"
-    />
-  </a>
-      <a href="https://github.com/mmstewart/FIO-Benchmark-Test/graphs/contributors">
-    <img
-      alt="contributors:?"
-      src="https://img.shields.io/github/contributors/mmstewart/FIO-Benchmark-Test.svg?color=blue"
-    />
-  </a>
+    
+  [![LICENSE](https://img.shields.io/github/license/mmstewart/FIO-Benchmark-Test.svg)](LICENSE)
+
 </p>
 
 ![1](https://user-images.githubusercontent.com/36175538/60447538-3c212080-9be9-11e9-9be2-ab9e953fb9af.PNG)
