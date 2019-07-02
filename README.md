@@ -1,7 +1,18 @@
 <h1 align=center> FIO-Benchmark-Test </h1>
-<p align=center> Flexible I/O (FIO) script to perform IO performance tests on storage devices. Made with Python. :heart: </p>
+<p align=center> Flexible I/O (FIO) python script to perform IO performance tests on storage devices. Made with Python. :heart: </p>
 
 <p align=center>
+    
+    <a href="https://pypi.org/project/pip/">
+    <img
+      alt="pypi:?"
+      src="https://img.shields.io/pypi/pyversions/pip.svg"
+    />
+  </a>
+  [![Contributors](https://img.shields.io/github/contributors/mmstewart/FIO-Benchmark-Test.svg)](https://github.com/mmstewart/FIO-Benchmark-Test/graphs/contributors)
+  
+  [![Travis CI](https://travis-ci.org/hvac/hvac.svg?branch=master)](https://travis-ci.org/hvac/hvac)
+  
     <a href="./LICENSE">
     <img
       alt="license:mit"
