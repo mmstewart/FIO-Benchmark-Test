@@ -4,8 +4,8 @@
 <p align=center>
     
 [![Pypi](https://img.shields.io/pypi/pyversions/pip.svg)](https://pypi.org/project/pip/)
-[![Contributors](https://img.shields.io/github/contributors/mmstewart/FIO-Benchmark-Test.svg)](https://github.com/mmstewart/FIO-Benchmark-Test/graphs/contributors)
 [![LICENSE](https://img.shields.io/github/license/mmstewart/FIO-Benchmark-Test.svg)](LICENSE)
+[![Contributor](https://img.shields.io/github/contributors/mmstewart/FIO-Benchmark-Test.svg)](https://github.com/mmstewart/FIO-Benchmark-Test/graphs/contributors)
 
 </p>
 
