@@ -1,4 +1,4 @@
-<h1> FIO-Benchmark-Test </h1>
+<h1> FIO Benchmark Test </h1>
 Flexible I/O (FIO) python script to perform IO performance tests on storage devices. Made with Python. :heart: </p>
     
 [![Pypi](https://img.shields.io/pypi/pyversions/pip.svg)](https://pypi.org/project/pip/)
