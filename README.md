@@ -13,6 +13,6 @@ Flexible I/O (FIO) python script to perform IO performance tests on storage devi
 
 ## License
 
-Copyright (c) 2019<!--- -(Future Years) --> Marcus Stewart, see Git history
+Copyright (c) 2020<!--- -(Future Years) --> Marcus Stewart, see Git history
 
 MIT licensed, see [LICENSE](LICENSE) file.
